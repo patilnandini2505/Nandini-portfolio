@@ -184,7 +184,7 @@ export default function Home() {
             </RevealWrapper>
 
             <RevealWrapper className="delay-[900ms] mt-12 flex flex-wrap items-center gap-6">
-              <a href="#projects" className="bg-[var(--color-brand-primary)] text-white px-8 py-4 uppercase tracking-[2px] text-xs font-bold hover:bg-[var(--color-brand-secondary)] transition-all shadow-[6px_6px_0_var(--color-brand-accent)] hover:shadow-xl hover:scale-[1.03] duration-500 ease-out">
+              <a href="/Nandini_Resume%20(1).pdf" target="_blank" rel="noopener noreferrer" className="bg-[var(--color-brand-primary)] text-white px-8 py-4 uppercase tracking-[2px] text-xs font-bold hover:bg-[var(--color-brand-secondary)] transition-all shadow-[6px_6px_0_var(--color-brand-accent)] hover:shadow-xl hover:scale-[1.03] duration-500 ease-out">
                 Resume
               </a>
               <a href="#contact" className="border border-[var(--color-brand-primary)] bg-[var(--color-brand-bg)] px-8 py-4 uppercase tracking-[2px] text-xs font-bold hover:bg-[var(--color-brand-accent)] transition-all duration-500 ease-out hover:scale-[1.03] hover:shadow-xl">
